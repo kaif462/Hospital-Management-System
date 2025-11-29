@@ -15,8 +15,3 @@ AF ID-04971730
 Batch Code: ANP-D2405
 Course Code: ITPR
 
-Name: Pranjal Khokhar
-
-AFID: AF04991818
-Batch Code: ANP-D2405
-Course Code: ITPR
